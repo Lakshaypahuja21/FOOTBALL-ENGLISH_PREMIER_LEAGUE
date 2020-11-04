@@ -1,7 +1,7 @@
 # FOOTBALL-ENGLISH_PREMIER_LEAGUE
-In the English Premier League, May - July represents a lull period due to the lack of club football. What makes up for it, is the intense transfer speculation that surrounds all major player transfers today. An important part of negotiations is predicting the fair market price for a player. You are tasked with predicting this Market Value of a player using the dataset provided
-The attached data set consists of the following attributes:
-
+## In the English Premier League, May - July represents a lull period due to the lack of club football. What makes up for it, is the intense transfer speculation that surrounds all major player transfers today. An important part of negotiations is predicting the fair market price for a player. You are tasked with predicting this Market Value of a player using the dataset provided
+## The attached data set consists of the following attributes:
+```
 name: Name of the player
 club: Club of the player
 age : Age of the player
@@ -36,12 +36,13 @@ club_id
 big_club: Whether one of the Top 6 clubs
 new_signing: Whether a new signing for 2017/18 (till 20th July)
 You have learned about a number of regression algorithms in your course: Linear Regression, Lasso Regression, Ridge Regression, Nearest Neighbour Regression, Support Vector Regression, Tree Regression, Random Forest Regression and Gradient Boosted Regression. 
-
-Your ask is:
-
+```
+### Your task is:
+```
 Use Seaborn to investigate the data and present your findings (20 marks)
 Build models using all the algorithms above to predict market_value (15 marks)
 Tune the hyperparameters and build the most accurate model (20 marks)
 Use model selection approaches discussed in class to choose the best model (10 marks)
 Implement a Genetic Algorithm for learning attribute weights for the Nearest Neighbour Algorithm. Implement at least one mechanism for maintaining Diversity within the Population (25 marks)
 Deploy your model as a RESTful Web Service (10 marks)
+``` 
