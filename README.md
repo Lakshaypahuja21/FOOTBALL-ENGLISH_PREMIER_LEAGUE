@@ -46,3 +46,4 @@ Use model selection approaches discussed in class to choose the best model (10 m
 Implement a Genetic Algorithm for learning attribute weights for the Nearest Neighbour Algorithm. Implement at least one mechanism for maintaining Diversity within the Population (25 marks)
 Deploy your model as a RESTful Web Service (10 marks)
 ``` 
+## For web app model deployment refer to master branch
